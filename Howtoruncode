@@ -1,0 +1,6 @@
+You can copy the code that i gave here and can run in any compiler using GNU GCC compiler(I used codeblocks).
+Once you create a project and add this file to your project created using the compiler, you can build and run.
+The code will automatially create the files for the railway database if you are running the code for the first time.
+If you already have the database ready, place it in the project folder the code will automatically detect the railwaydbs file and you can proceed with the railway booking process.
+Once the code is run, and you have created a login account in the Railway Booking process a text file under your name will be created and all the info regarding your booking process is stored in it.
+Finally, you can exit the code and all the files will be saved securely for you to check the next time you run the code.
